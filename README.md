@@ -1,2 +1,2 @@
 ## Nodejs
-https://youtu.be/7NfvC-gOcRc
+Api node + postgres: https://youtu.be/7NfvC-gOcRc
